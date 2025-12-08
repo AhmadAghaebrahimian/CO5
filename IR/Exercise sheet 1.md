@@ -56,7 +56,7 @@ Experiment with different query semantics:
 - **OR queries**
 - **AND queries**
 - **Phrase queries**
-- **Phuzzy vs. Exact match**
+- **Fuzzy vs. Exact match**
 - **Different scoring methods**
 
 Subjectively evaluate how these choices influence retrieval quality.
